@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### How to install
 
 #### Section A
-* Clone this repo to your computer : https://github.com/barilki/TestDrivenDevelopment
+* Clone this repo to your computer : https://github.com/amitamir/TDD_2/tree/master
 
 #### Section B
 * Open command line .
