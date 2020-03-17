@@ -50,7 +50,7 @@ In order to run the test, use command line to enter the following command: (open
  python TestDrivenDevelopment.py
  ```
 If all tests passed, you should see this output:
-(https://github.com/amitamir/TDD_2/blob/master/images/pass%20test.jpeg)
+(https://github.com/amitamir/TDD_2/blob/master/images/pass%20test.jpeg?raw=true)
   
   
 ## Using the application
