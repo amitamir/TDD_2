@@ -50,8 +50,7 @@ In order to run the test, use command line to enter the following command: (open
  python TestDrivenDevelopment.py
  ```
 If all tests passed, you should see this output:
-![ImageOfTest]
-(https://github.com/amitamir/TDD_2/blob/master/images/pass%20test.jpeg?raw=true)
+![Image of Yaktocat](https://github.com/amitamir/TDD_2/blob/master/images/pass%20test.jpeg)
   
   
 ## Using the application
